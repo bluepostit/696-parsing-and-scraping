@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beers>
+  <title>Great beers</title>
+  <beer>
+    <name>Edelweiss</name>
+    <origin>Austria</origin>
+    <appearance>White</appearance>
+  </beer>
+  <beer>
+    <name>Cuvée des Trolls</name>
+    <appearance>Blond</appearance>
+    <origin>Belgium</origin>
+  </beer>
+  <beer>
+    <name>Cuvée des Trolls</name>
+    <appearance>Blond</appearance>
+    <origin>Belgium</origin>
+  </beer>
+  <beer>
+    <name>Cuvée des Trolls</name>
+    <appearance>Blond</appearance>
+    <origin>Belgium</origin>
+  </beer>
+</beers>

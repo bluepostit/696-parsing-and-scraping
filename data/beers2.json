@@ -1,0 +1,15 @@
+{
+  "title": "More great beers",
+  "beers": [
+    {
+      "name": "Edelweiss",
+      "appearance": "White",
+      "origin": "Austria"
+    },
+    {
+      "name": "Guinness",
+      "appearance": "Stout",
+      "origin": "Ireland"
+    }
+  ]
+}
